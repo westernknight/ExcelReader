@@ -1,0 +1,6 @@
+D:\zhangjiajun\studio\ExcelReader\trunk\ExcelReader\bin\Debug\ExcelReader.exe
+D:\zhangjiajun\studio\ExcelReader\trunk\ExcelReader\bin\Debug\ExcelReader.pdb
+D:\zhangjiajun\studio\ExcelReader\trunk\ExcelReader\bin\Debug\Excel.dll
+D:\zhangjiajun\studio\ExcelReader\trunk\ExcelReader\obj\x86\Debug\ExcelReader.csprojResolveAssemblyReference.cache
+D:\zhangjiajun\studio\ExcelReader\trunk\ExcelReader\obj\x86\Debug\ExcelReader.exe
+D:\zhangjiajun\studio\ExcelReader\trunk\ExcelReader\obj\x86\Debug\ExcelReader.pdb
